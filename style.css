@@ -14,6 +14,7 @@ header{
     justify-content: center;
     align-items: center;
 }
+
 h1{
     color: white;
     display : flex;
@@ -88,5 +89,4 @@ footer{
     display : flex;
     justify-content: center;
     align-items: center;
-
 }
